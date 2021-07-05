@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "cardType": "Reward 1",
+    "cardNumber": 1234567890
+  },
+  {
+    "id": 2,
+    "cardType": "Reward 2",
+    "cardNumber": 987654321
+  }
+]
